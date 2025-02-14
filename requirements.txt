@@ -1,0 +1,9 @@
+The project is implemented in Python and uses the following libraries:
+
+pandas – For data manipulation
+numpy – For numerical computations
+matplotlib – For visualizing stock trends
+seaborn – For enhanced data visualization
+bokeh – For interactive visualizations
+tkinter – For GUI-based file selection
+tkinter.messagebox – For user notifications
